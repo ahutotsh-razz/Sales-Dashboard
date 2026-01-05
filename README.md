@@ -7,7 +7,7 @@ It provides a consolidated view of **sales revenue, units sold, target achieveme
 ---
 
 ## 📷 Project Screenshot
-![Amazon Sales Dashboard 2024](./screenshots/Amazon_Sales_Dashboard_2024.png)
+![Amazon Sales Dashboard 2024](https://github.com/ahutotsh-razz/Sales-Dashboard/blob/main/Amazon_sales_dashboard.jpeg)
 
 > 📌 *This screenshot shows the complete Excel dashboard including KPIs, city-wise sales, product-wise units, and state-wise sales map.*
 
@@ -15,7 +15,7 @@ It provides a consolidated view of **sales revenue, units sold, target achieveme
 
 ## 📂 Project Files
 - 📊 **Dashboard File:** - 📁 **Dataset (Sample Data):**    
-  [Download Excel Dashboard](./Amazon_Sales_Dashboard_2024.xlsx)
+  [Download Excel Dashboard](https://github.com/ahutotsh-razz/Sales-Dashboard/blob/main/Sales%20Data%20ass1.xlsx))
 
 
 
