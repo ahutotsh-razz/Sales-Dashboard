@@ -14,11 +14,10 @@ It provides a consolidated view of **sales revenue, units sold, target achieveme
 ---
 
 ## 📂 Project Files
-- 📊 **Dashboard File:**  
+- 📊 **Dashboard File:** - 📁 **Dataset (Sample Data):**    
   [Download Excel Dashboard](./Amazon_Sales_Dashboard_2024.xlsx)
 
-- 📁 **Dataset (Sample Data):**  
-  [Sales Data](./Sales_Data.xlsx)
+
 
 > ⚠️ *The dataset used in this project is sample/dummy data created for learning and portfolio purposes.*
 
