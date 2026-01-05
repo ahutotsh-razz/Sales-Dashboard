@@ -2,7 +2,25 @@
 
 ## 📌 Project Overview
 The **Amazon Sales Dashboard 2024** is an **interactive Excel dashboard** developed to analyze Amazon sales performance across **cities, states, and products** in India.  
-The dashboard provides a consolidated view of **sales revenue, units sold, target achievement, and regional performance**, enabling quick and data-driven business insights using Microsoft Excel.
+It provides a consolidated view of **sales revenue, units sold, target achievement, and regional performance**, enabling fast, data-driven insights using Microsoft Excel.
+
+---
+
+## 📷 Project Screenshot
+![Amazon Sales Dashboard 2024](./screenshots/Amazon_Sales_Dashboard_2024.png)
+
+> 📌 *This screenshot shows the complete Excel dashboard including KPIs, city-wise sales, product-wise units, and state-wise sales map.*
+
+---
+
+## 📂 Project Files
+- 📊 **Dashboard File:**  
+  [Download Excel Dashboard](./Amazon_Sales_Dashboard_2024.xlsx)
+
+- 📁 **Dataset (Sample Data):**  
+  [Sales Data](./Sales_Data.xlsx)
+
+> ⚠️ *The dataset used in this project is sample/dummy data created for learning and portfolio purposes.*
 
 ---
 
@@ -10,7 +28,7 @@ The dashboard provides a consolidated view of **sales revenue, units sold, targe
 - Track **total sales and units sold**
 - Compare **actual performance vs targets**
 - Analyze **city-wise and state-wise sales trends**
-- Identify **top-selling products**
+- Identify **top-performing products**
 - Enable **dynamic filtering and interactivity** in Excel
 
 ---
@@ -29,7 +47,7 @@ The dashboard provides a consolidated view of **sales revenue, units sold, targe
 ## 📊 Dashboard Features
 
 ### 🏙 City-Wise Sales
-- Line chart displaying sales trends across major Indian cities
+- Line chart showing sales distribution across major Indian cities
 - Helps identify high- and low-performing locations
 
 ### 🎯 Actual vs Target Performance
@@ -42,13 +60,12 @@ The dashboard provides a consolidated view of **sales revenue, units sold, targe
 - Highlights top-performing and underperforming products
 
 ### 🗺 State-Wise Sales Distribution
-- India map visualization showing sales contribution by state
-- Useful for regional performance analysis
+- India map chart visualizing state-level sales contribution
 
 ### 🔍 Interactive Filters
 - State slicer
 - Product slicer  
-Allows users to dynamically analyze sales by region and product
+Enables dynamic analysis by region and product
 
 ---
 
@@ -62,31 +79,20 @@ Allows users to dynamically analyze sales by region and product
   - IF
   - Percentage calculations
 - **Conditional Formatting**
-- **Map Charts (Geographical Visualization)**
+- **Excel Map Charts**
 
 ---
 
 ## 🧠 Key Insights
-- Metro cities contribute a major share of total sales
-- A limited set of products drives most unit sales
-- Some states show strong unit movement but lower revenue, indicating pricing variations
-- Achievement gap analysis helps identify improvement areas
-
----
-
-## 📂 Dataset Information
-- Sales dataset includes:
-  - Order details
-  - City and state
-  - Product names
-  - Sales value, units sold, and targets
-
-> ⚠️ *This project uses sample/dummy data created for learning and portfolio purposes.*
+- Metro cities contribute the majority of total sales
+- A small group of products drives most unit sales
+- Some states show high unit movement but lower revenue, indicating pricing or discount effects
+- Achievement gap analysis highlights areas for performance improvement
 
 ---
 
 ## 🚀 How to Use This Dashboard
-1. Download the Excel file (`.xlsx`) from this repository
+1. Download the Excel file from the link above
 2. Open in **Microsoft Excel (2019 or later recommended)**
 3. Use slicers and charts to interact with the dashboard
 
@@ -96,7 +102,7 @@ Allows users to dynamically analyze sales by region and product
 - Sales performance tracking
 - Regional and city-level analysis
 - Product demand evaluation
-- Management and executive reporting
+- Executive and management reporting
 
 ---
 
@@ -110,7 +116,7 @@ Skills: Excel | Data Analysis | Dashboard Design | Data Visualization
 ---
 
 ## 📬 Feedback
-Suggestions and improvements are welcome.  
+Feedback and suggestions are welcome.  
 Feel free to fork the repository or raise an issue.
 
 ---
